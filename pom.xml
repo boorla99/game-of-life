@@ -504,12 +504,13 @@
       <url>http://13.89.200.129:8081/nexus/content/repositories/releases/</url>
      
     </repository>
-    <snapshotsrepository>
+    
+    <snapshotRepository>
       <id>snapshots</id>
       <name>Snapshots</name>
       <url>http://13.89.200.129:8081/nexus/content/repositories/snapshots/</url>
     
-      </snapshotsrepository>
+    </snapshotRepository>
     
  </distributionManagement>
 </project>
